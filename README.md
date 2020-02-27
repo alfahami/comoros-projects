@@ -1,4 +1,4 @@
-# Comoros Projects and Ideas
+# Comoros Projects & Ideas
 
  ## Project1: Comoros Ylang-Ylang
   * ### Live Demo: [ComoYlang](https://mgcldevops.eu-gb.cf.appdomain.cloud/ylangComores/)
